@@ -1,0 +1,23 @@
+.site_end {
+    height: 74px;
+
+    .site_end_title {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .site_end_text {
+        margin-top: 25px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.2px;
+        color: #737373;
+
+    }
+    .site_end_img{
+      margin-top: 25px;
+    }
+}

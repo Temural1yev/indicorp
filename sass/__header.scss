@@ -1,0 +1,81 @@
+.header {
+    background-image: url(../rasmlar/bacround.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+
+    .header__content {
+        height: calc(100vh - 80px);
+    }
+}
+
+.header__content {
+    .header__title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 58px;
+        line-height: 80px;
+        letter-spacing: 0.2px;
+        color: #252B42;
+        max-width: 509px;
+        margin-top: 184px;
+    }
+
+    .header__text {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        color: #737373;
+        margin-top: 35px;
+        max-width: 509px;
+
+    }
+
+    .header__btns {
+        display: flex;
+        align-items: center;
+
+    }
+
+    .header__btn1 {
+        font-family: 'Montserrat';
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 36px;
+        gap: 10px;
+        width: 185px;
+        height: 48px;
+        color: #fff;
+        background: #FFA62B;
+        border-radius: 37px;
+        margin-top: 35px;
+        border: 0;
+        padding: 19px 36px;
+        cursor: pointer;
+    }
+
+    .header__btn2 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #00A0C1;
+        border-radius: 37px;
+        padding: 10px 36px;
+        border: 1px solid #00A0C1;
+        margin-left: 10px;
+        margin-top: 35px;
+        cursor: pointer;
+
+
+    }
+}

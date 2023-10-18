@@ -1,0 +1,110 @@
+.boxs__contents {
+    .boxss {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: -180px;
+
+        .box1 {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 35px 40px;
+            gap: 10px;
+            width: 328px;
+            height: 210px;
+            background: #FFFFFF;
+            box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+        }
+
+        .box__title1 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            letter-spacing: 0.1px;
+            color: #252B42;
+        }
+
+        .box__text1 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 0.2px;
+            color: #737373;
+        }
+
+        .box2 {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 35px 40px;
+            gap: 10px;
+            width: 328px;
+            height: 210px;
+            background: #FFFFFF;
+            box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+            margin-left: 30px;
+        }
+
+        .box__title2 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            letter-spacing: 0.1px;
+            color: #252B42;
+
+        }
+
+        .box__text2 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 0.2px;
+            color: #737373;
+
+        }
+    }
+
+    .box3 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 35px 40px;
+        gap: 10px;
+        width: 328px;
+        height: 210px;
+        background: #00A0C1;
+        box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+        margin-left: 30px;
+
+        .box__title3 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            letter-spacing: 0.1px;
+            color: #FFFFFF;
+        }
+
+        .box__text3 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 0.2px;
+            color: #FFFFFF;
+        }
+    }
+}

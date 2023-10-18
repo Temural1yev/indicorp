@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(249, 248, 248);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+a {
+
+    text-decoration: none;
+    color: inherit;
+}
+$rang:#1360b3;
+$arial: Arial, Helvetica, sans-serif;
+
+
+.container{
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+@import "__navbar.scss";
+@import "__header.scss";
+@import "__boxs.scss";
+@import "__choose.scss";
+@import "__advace.scss";
+@import "__bizness.scss";
+@import "__icons.scss";
+@import "__touch.scss";
+@import "__biznesfooter";
+@import "__about";
+@import "__site_end";

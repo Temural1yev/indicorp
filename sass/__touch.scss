@@ -1,0 +1,103 @@
+.touch {
+
+    .touch_title {
+        .touch_title_text {
+            margin-top: 80px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 57px;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+
+    }
+
+    .touch_text {
+        margin-top: 10px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+
+    }
+
+    .touch_flex {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 110px;
+
+        .touch_boxs {
+            max-width: 328px;
+            justify-content: space-between;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 50px 40px;
+            gap: 15px;
+            width: 328px;
+            height: 333px;
+            background: #c4c3c8;
+            border-radius: 10px;
+        }
+
+        .amail1 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+        .amail2 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.2px;
+            color: #252B42;
+
+        }
+
+        .get_text {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.1px;
+            color: #252B42;
+
+        }
+
+        .touch_btn {
+            border-radius: 10px;
+            border: 2px solid orange;
+            color: orange;
+            padding: 15px 40px;
+            background-color: none;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.2px;
+            color: #FFA62B;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+.about_blog {
+    background: #16697A;
+    height: 272px;
+
+    .about_titles {
+        display: flex;
+        justify-content: space-between;
+
+
+    }
+
+   
+
+    .info {
+        margin-top: 50px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.1px;
+        color: #FFFFFF;
+    }
+
+    .infos {
+        margin-top: 20px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.2px; 
+        color: #FFFFFF;
+
+    }
+
+}

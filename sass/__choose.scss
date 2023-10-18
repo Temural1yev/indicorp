@@ -1,0 +1,174 @@
+.choose {
+
+    .choose__texts {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    .choose__title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+
+    .choose_text {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+    }
+}
+
+// choose boxs//
+.choose__boxs {
+    .choose_box4 {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 80px;
+
+
+
+        .box1__choose {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 30px 40px;
+            gap: 10px;
+            width: 230px;
+            height: 209px;
+            background: #FFFFFF;
+        }
+
+        .k3__title {
+            text-align: center;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 57px;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+        .cases__text {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.1px;
+            color: #737373;
+        }
+    }
+
+    .box2__choose {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 40px;
+        gap: 10px;
+        width: 230px;
+        height: 209px;
+        background: #FFFFFF;
+
+        .title__45 {
+            text-align: center;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 57px;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+        .text__45 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.1px;
+            color: #737373;
+        }
+    }
+
+    .box3__choose {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 40px;
+        gap: 10px;
+        width: 230px;
+        height: 209px;
+        background: #FFFFFF;
+    }
+
+    .title__box3 {
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+
+    .text__box3 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.1px;
+        color: #737373;
+    }
+
+    .box4__choose {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 40px;
+        gap: 10px;
+        width: 230px;
+        height: 209px;
+        background: #FFFFFF;
+
+        .title__box4 {
+            text-align: center;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 57px;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+        .text__box4 {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.1px;
+            color: #737373;
+        }
+    }
+}
+
+
+// choose boxs end//

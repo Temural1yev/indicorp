@@ -1,0 +1,94 @@
+.biznes {
+    .biznes__header {
+        justify-content: space-between;
+        margin-top: 100px;
+        margin: 0 auto;
+        max-width: 600px;
+
+        .biznes__title {
+            margin-top: 100px;
+            text-align: center;
+            width: 600px;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 57px;
+            text-align: center;
+            letter-spacing: 0.2px;
+            color: #252B42;
+        }
+
+        .biznes__text {
+            margin-top: 15px;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            text-align: center;
+            letter-spacing: 0.2px;
+            color: #737373;
+        }
+
+        .objects {
+              display: flex;
+                justify-content: space-between;  
+                
+                .object__texts {
+                    height: 442px;
+                    max-width: 325px;
+
+                    .object__title {
+                        font-family: 'Montserrat';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 40px;
+                        line-height: 57px;
+                        letter-spacing: 0.2px;
+                        color: #252B42;
+                    }
+
+                    .object__text1 {
+                        font-family: 'Montserrat';
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 14px;
+                        line-height: 20px;
+                        letter-spacing: 0.2px;
+                        color: #737373;
+
+                    }
+
+                    .peoples {
+                        .peoples__text1 {
+                            font-family: 'Montserrat';
+                            font-style: normal;
+                            font-weight: 700;
+                            font-size: 16px;
+                            line-height: 24px;
+                            letter-spacing: 0.1px;
+                            color: #252B42;
+
+                        }
+
+                        .peoples__text2 {
+                            font-family: 'Montserrat';
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 14px;
+                            line-height: 24px;
+                            letter-spacing: 0.2px;
+                            color: #737373;
+
+                        }
+                    }
+                }
+
+            }
+
+
+        }
+
+
+    }

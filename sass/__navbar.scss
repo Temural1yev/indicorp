@@ -1,0 +1,39 @@
+.navbar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+    .navbar__content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .navbar__left {
+            display: flex;
+            align-items: center;
+        }
+
+        .nabar__menu {
+            display: flex;
+            align-items: center;
+            margin-left: 117px;
+
+        }
+
+        .items {
+            margin-right: 21px;
+
+            a {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 24px;
+                text-align: center;
+                letter-spacing: 0.2px;
+                color: #737373;
+            }
+        }
+
+    }
+}

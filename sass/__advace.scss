@@ -1,0 +1,198 @@
+.advace {
+    .advace__header {
+        text-align: center;
+        margin-top: 125px;
+    }
+
+    .advace__title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+
+    .advace__text {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+    }
+
+
+    .advace__boxs {
+        display: flex;
+        justify-content: space-between;
+
+        .advace__box1 {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            width: 230px;
+            height: 341px;
+            background: #FFFFFF;
+
+            .advace__title1 {
+                width: 160px;
+                margin-top: 30px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 24px;
+                letter-spacing: 0.1px;
+                color: #252B42;
+            }
+
+            .advace__text1 {
+                width: 160px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+                letter-spacing: 0.2px;
+                color: #737373;
+            }
+
+            .imgbox1 {
+                margin-top: 30px;
+            }
+        }
+
+        .advace__box2 {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            width: 230px;
+            height: 342px;
+            background: #FFFFFF;
+
+            .advace__title2 {
+                width: 160px;
+                margin-top: 30px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 24px;
+                letter-spacing: 0.1px;
+                color: #252B42;
+
+            }
+
+            .advace__text2 {
+                width: 160px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+                letter-spacing: 0.2px;
+                color: #737373;
+
+            }
+
+            .imgbox2 {
+                margin-top: 30px;
+            }
+
+        }
+
+        .advace__box3 {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            width: 230px;
+            height: 321px;
+            background: #FFFFFF;
+
+            .advace__title3 {
+                width: 160px;
+                margin-top: 30px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 24px;
+                letter-spacing: 0.1px;
+                color: #252B42;
+
+            }
+
+            .advace__text3 {
+                width: 160px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+                letter-spacing: 0.2px;
+                color: #737373;
+
+            }
+
+            .imgbox3 {
+                margin-top: 30px;
+            }
+
+
+        }
+
+        .advace__box4 {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+
+            width: 230px;
+            height: 321px;
+
+            background: #FFFFFF;
+
+            .advace__title4 {
+                width: 160px;
+                margin-top: 30px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 24px;
+                letter-spacing: 0.1px;
+                color: #252B42;
+
+            }
+
+            .advace__text4 {
+                width: 160px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 20px;
+                letter-spacing: 0.2px;
+                color: #737373;
+
+            }
+
+            .imgbox4 {
+                margin-top: 30px;
+            }
+
+
+        }
+    }
+}
